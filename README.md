@@ -1,35 +1,35 @@
 # CODSOFT C++ Programming Internship
 
-Welcome to my **CODSOFT C++ Programming Internship** repository. This repository contains all the tasks completed as part of my internship at CodSoft.
+Welcome to my CODSOFT C++ Programming Internship repository. This repository contains the tasks completed during my internship.
 
 ## About
-This repository showcases my C++ programming skills through different console-based projects. Each task focuses on improving problem-solving, logical thinking, and programming fundamentals.
 
-## Tasks Completed
+This repository showcases my C++ programming projects completed as part of the CODSOFT C++ Programming Internship. These projects helped me strengthen my programming, problem-solving, and logical thinking skills.
 
-### ✅ Task 1: Number Guessing Game
-- Generates a random number.
-- Allows the user to guess the number.
-- Gives hints such as "Too High" or "Too Low".
-- Displays the number of attempts.
+## Tasks
 
-### ⏳ Task 2: Simple Calculator
-*Coming Soon*
+### Task 1: Number Guessing Game
+A console-based game where the user guesses a randomly generated number with hints after each guess.
 
-### ⏳ Task 3: Tic-Tac-Toe Game
-*Coming Soon*
+### Task 2: Simple Calculator
+A console-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-### ⏳ Task 4: To-Do List
-*Coming Soon*
+### Task 3: Tic-Tac-Toe Game
+A two-player console-based Tic-Tac-Toe game. (Coming Soon)
 
-### ⏳ Task 5: Image Processing Tool
-*Coming Soon*
+### Task 4: To-Do List
+A console-based application that allows users to add, view, mark as completed, and delete tasks.
+
+### Task 5: Image Processing Tool
+An application to perform basic image processing operations. (Coming Soon)
 
 ## Technologies Used
+
 - C++
 - Standard Template Library (STL)
 - Visual Studio Code
-- Git & GitHub
+- Git
+- GitHub
 
 ## Repository Structure
 
@@ -41,20 +41,18 @@ CODSOFT
 │   └── README.md
 │
 ├── Task2_SimpleCalculator
-│
-├── Task3_TicTacToe
+│   ├── main.cpp
+│   └── README.md
 │
 ├── Task4_ToDoList
-│
-└── Task5_ImageProcessingTool
+│   ├── main.cpp
+│   └── README.md
 ```
 
 ## Author
 
-**Miracle Mercy**
-
-- GitHub: https://github.com/Merc-git-cpu
-- LinkedIn: https://www.linkedin.com/in/YourLinkedInUsername
+Miracle Mercy
 
 ---
-⭐ Thank you for visiting this repository!
+
+This repository was created as part of the CODSOFT C++ Programming Internship.
